@@ -23,6 +23,12 @@ Hi, I'm Abdul Baseer. I'm passionate about technology and software development. 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 # 📊 GitHub Stats:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulbaseer84&show_icons=true&locale=en&layout=compact" alt="abdulbaseer84" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulbaseer84&" alt="abdulbaseer84" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulbaseer84&show_icons=true&locale=en&layout=compact" alt="abdulbaseer84" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulbaseer84" alt="abdulbaseer84" />
+</div>
+
