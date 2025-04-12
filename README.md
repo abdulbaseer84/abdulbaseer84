@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Abdul Baseer</h1>
-<h3 align="center">A passionate Frontend Developer with experience in the MERN stack. Focused on building responsive and easy-to-use web apps.</h3>
+# 💫 About Me:
+Hi, I'm Abdul Baseer, a passion for technology and software development. Skilled in c++, Python, JavaScript, and web technologies, I'm eager to apply my technical knowledge and innovative problem-solving skills to create impactful solutions in a dynamic professional environment.
 
-- 📫 How to reach me **abdulbaseer848@gmail.com**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-baseer-2aaa44250) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
