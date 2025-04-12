@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I'm Abdul Baseer. I'm passionate about technology and software development. Skilled in C++, Python, JavaScript, and web technologies, I'm eager to use my knowledge to build real-world projects and grow in a professional environment.
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-baseer) 
 
 
